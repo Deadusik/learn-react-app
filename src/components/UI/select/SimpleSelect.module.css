@@ -1,0 +1,8 @@
+.simpleSelect {
+    width: 150px;
+    border: 1px solid teal;
+    padding: 5px 10px;
+    color: teal;
+    font-size: 14px;
+    background-color: transparent;
+}

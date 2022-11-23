@@ -1,0 +1,9 @@
+.postForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.postForm .title {
+    font-size: 24px;
+    text-align: center;
+}
